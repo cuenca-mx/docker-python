@@ -1,2 +1,5 @@
 # docker-python
-base Docker image for python projects
+
+This repo contains the base Docker image for Cuenca's python projects.
+
+
